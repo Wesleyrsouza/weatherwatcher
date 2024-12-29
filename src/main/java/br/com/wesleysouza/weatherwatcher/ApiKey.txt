@@ -1,0 +1,5 @@
+KEY
+3543cb1dedb833f4d19eef038a38bd2d
+
+LINK do geolocalizador:
+http://api.openweathermap.org/geo/1.0/direct?q=Burbank,CA,US&limit=1&appid=3543cb1dedb833f4d19eef038a38bd2d
